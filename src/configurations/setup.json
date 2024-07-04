@@ -17,5 +17,104 @@
             "image":"https://img.icons8.com/?size=100&id=80613&format=png&color=000000",
             "status": 1
         }
+    ],
+    "mainMenu":[
+        {
+            "id": 1,
+            "name": "Produtos",
+            "route": "ProductsListPage",
+            "color": "#FF4500",
+            "image": "https://img.icons8.com/office/70/000000/home-page.png",
+            "status": 1
+        },
+        {
+            "id": 2,
+            "name": "Categorias",
+            "route": "CategoriesListPage",
+            "color": "#87CEEB",
+            "image": "https://img.icons8.com/color/70/000000/name.png",
+            "status": 1
+        },
+        {
+            "id": 3,
+            "name": "Produtos",
+            "route": "ProductsListPage",
+            "color": "#4682B4",
+            "image": "https://img.icons8.com/color/70/000000/two-hearts.png",
+            "status": 1
+        },
+        {
+            "id": 4,
+            "name": "Categorias",
+            "route": "CategoriesListPage",
+            "color": "#6A5ACD",
+            "image": "https://img.icons8.com/color/70/000000/family.png",
+            "status": 1
+        },
+        {
+            "id": 5,
+            "name": "Produtos",
+            "route": "ProductsListPage",
+            "color": "#FF69B4",
+            "image": "https://img.icons8.com/color/70/000000/groups.png",
+            "status": 1
+        },
+        {
+            "id": 6,
+            "name": "Categorias",
+            "route": "CategoriesListPage",
+            "color": "#00BFFF",
+            "image": "https://img.icons8.com/color/70/000000/classroom.png",
+            "status": 1
+        },
+        {
+            "id": 7,
+            "name": "Categorias",
+            "route": "CategoriesListPage",
+            "color": "#00FFFF",
+            "image": "https://img.icons8.com/dusk/70/000000/checklist.png",
+            "status": 1
+        },
+        {
+            "id": 8,
+            "name": "Produtos",
+            "route": "ProductsListPage",
+            "color": "#20B2AA",
+            "image": "https://img.icons8.com/color/70/000000/name.png",
+            "status": 1
+        },
+        {
+            "id": 9,
+            "name": "Categorias",
+            "route": "CategoriesListPage",
+            "color": "#191970",
+            "image": "https://img.icons8.com/dusk/70/000000/globe-earth.png",
+            "status": 1
+        },
+        {
+            "id": 10,
+            "name": "Categorias",
+            "route": "CategoriesListPage",
+            "color": "#008080",
+            "image": "https://img.icons8.com/color/70/000000/to-do.png",
+            "status": 1
+        },
+        {
+            "id": 11,
+            "name": "Produtos",
+            "route": "ProductsListPage",
+            "color": "#FF69B4",
+            "image": "https://img.icons8.com/color/70/000000/basketball.png",
+            "status": 1
+        },
+        {
+            "id": 12,
+            "name": "Categorias",
+            "route": "CategoriesListPage",
+            "color": "#008080",
+            "image": "https://img.icons8.com/color/70/000000/name.png",
+            "status": 1
+        }
+        
     ]
 }

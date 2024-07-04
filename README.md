@@ -1,5 +1,6 @@
 # reactnative_navigation_boilerplate
 [fontes deste projeto](https://github.com/logicinfocursos/reactnative_navigation_boilerplate)
+
 A ideia é dispor um esqueleto inicial para agilizar o desenvolvimento de um novo projeto em [React Native](https://reactnative.dev/docs/getting-started) com aquelas configurações standards.
 
 Para configurar o ambiente e instalar as dependências necessárias para o projeto [React Native](https://reactnative.dev/docs/getting-started) usando [Expo](https://docs.expo.dev/get-started/introduction/) e [React Navigation](https://reactnavigation.org/docs/getting-started/) com navegação [Stack](https://reactnavigation.org/docs/stack-navigator) e [Bottom Tab](https://reactnavigation.org/docs/bottom-tab-navigator), siga os passos abaixo:
@@ -166,6 +167,11 @@ function SettingsPage() {
 c:\app> npm i axios
 </pre>
 
+para executar o app no browser, instalar as seguintes dependências:
+<pre>
+c:\app> npx expo install react-native-web react-dom @expo/metro-runtime
+</pre>
+
 ### baixando o projeto no github
 download do código:nodejs_apiGet_example: https://github.com/logicinfocursos/nodejs_apiGet_example.git
 
@@ -174,6 +180,7 @@ ao clonar o projeto ou baixar o arquivo .zip, não se esqueça de gerar a pasta 
 <pre>
 c:\app> npm i
 </pre>
+
 ## referências
 - [node js](https://nodejs.org/pt/learn/getting-started/introduction-to-nodejs)
 - [React Native](https://reactnative.dev/docs/getting-started)

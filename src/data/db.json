@@ -1,0 +1,136 @@
+{
+    "products": [
+    {
+        "id": 1,
+        "name": "Cuisinart Air Fryer Forno – Fritadeira a ar de aço inoxidável de 6 litros",
+        "details": " Combo de forno de fritadeira a ar seguro para máquina de lavar louça com 5 predefinições – Assar, grelhar e fritar ao ar",
+        "category_id": 3,
+        "image": "https://m.media-amazon.com/images/I/71WOxmndFvL._AC_SY450_.jpg",
+        "inCart": true,
+        "price": 645,
+        "amount": 1,
+        "status": 1,
+        "cartId": null
+      },
+      {
+        "id": 2,
+        "name": "Onkyo RECEIVER TX8220, Preto, TX-8220",
+        "details": "Equipado com a mais recente tecnologia Bluetooth, este receiver oferece a liberdade de escolher o volume de sua música, filmes e jogos.",
+        "category_id": 1,
+        "image": "https://m.media-amazon.com/images/I/71bTpE0V7fL._AC_SX679_.jpg",
+        "inCart": true,
+        "price": 2165,
+        "amount": 1,
+        "status": 1,
+        "cartId": null
+      },
+      {
+        "id": 3,
+        "name": "Audio-Technica AT-LP120XUSB-BK Direct Drive USB toca-discos",
+        "details": "Toca-discos AT-LP120XUSB-BK, Cápsula fonográfica AT-VM95E; cabeçote AT-HS6; cabo de USB 1,9 m; cabo RCA duplo (macho) para RCA duplo (macho) com fio terra",
+        "category_id": 1,
+        "image": "https://m.media-amazon.com/images/I/618zOKcrZ5L._AC_SX425_.jpg",
+        "inCart": false,
+        "price": 3090,
+        "amount": 1,
+        "status": 1,
+        "cartId": null
+      },
+      {
+        "id": 4,
+        "name": "Caixa de Som Bluetooth Edifier R1280DB",
+        "details": "Caixa de Som Bluetooth Edifier R1280DB 42W, Monitor de áudio, Bivolt, Madeira",
+        "category_id": 1,
+        "image": "https://m.media-amazon.com/images/I/81+37Bd-8wL._AC_SX679_.jpg",
+        "inCart": false,
+        "price": 9993,
+        "amount": 1,
+        "status": 1,
+        "cartId": null
+      },
+      {
+        "id": 5,
+        "name": "Fast Smart TV Philco 58” PTV58GAGSKSBL Dolby Audio 4K LED",
+        "details": "Alta performance de processamento: Com uma CPU Quad Core e uma GPU Triple Core a Fast Smart TV AndroidTV responde muito mais rápido aos comandos",
+        "category_id": 2,
+        "image": "https://m.media-amazon.com/images/I/61CrTZDUPPL._AC_SX425_.jpg",
+        "inCart": true,
+        "price": 2399,
+        "amount": 1,
+        "status": 1,
+        "cartId": null
+      },
+      {
+        "id": 6,
+        "name": "Smart TV 50\" 4K LG NanoCell 50NANO77SRA",
+        "details": "Smart - LG ThinQ AI - Google Assistente & Amazon Alexa",
+        "category_id": 5,
+        "image": "https://m.media-amazon.com/images/I/61vgiU5DFpL._AC_SX425_.jpg",
+        "inCart": false,
+        "price": 231000,
+        "amount": 1,
+        "status": 1,
+        "cartId": null
+      },
+      {
+        "id": 7,
+        "name": "Smart TV DLED 43 Full HD Multi Android 11 3 HDMI 2 USB - TL066M",
+        "details": "Smart TV DLED 43 Full HD Multi Android 11 3 HDMI 2 USB - TL066M",
+        "category_id": 2,
+        "image": "https://m.media-amazon.com/images/I/610DuMy9GmL._AC_SX425_.jpg",
+        "inCart": true,
+        "price": 1599,
+        "amount": 1,
+        "status": 1,
+        "cartId": null
+      },
+      {
+        "id": 8,
+        "name": "Notebook Gamer Dell G15-i1300-A20P 15.6\" FHD 13ª Geração Intel Core i5 8GB 512GB SSD",
+        "details": "13ª geração Intel Core i5-13450HX (10-core, cache de 20MB, até 4.6GHz), SSD de 512GB PCIe NVMe M.2,\r\n Memória de 8GB DDR5 (1x8GB) 4800MHz, Placa de vídeo NVIDIA GeForce RTX 3050, 6GB GDDR6",
+        "category_id": 4,
+        "image": "https://m.media-amazon.com/images/I/611QgduzXOL._AC_SX522_.jpg",
+        "inCart": false,
+        "price": 5550,
+        "amount": 1,
+        "status": 1,
+        "cartId": null
+      },
+      {
+        "id": 9,
+        "name": "Computador Desktop Dell Alienware Aurora R15 i1300-A30P 13ª Geração Intel Core i7k RTX 3070 32GB 512GB SSD ",
+        "details": "13ª geração Intel Core i7-13700K (16-core, cache de 54MB, até 5.4GHz)\r\nSSD de 512GB PCIe NVMe M.2\r\nMemória de 32GB DDR5 (2x16GB) 4800MHz; Expansível até 64GB",
+        "category_id": 4,
+        "image": "https://m.media-amazon.com/images/I/718IQw7eeBL._AC_SX425_.jpg",
+        "inCart": false,
+        "price": 11000,
+        "amount": 1,
+        "status": 1,
+        "cartId": null
+      },
+      {
+        "id": 10,
+        "name": "Dell Inspiron Laptop com tela sensível ao toque c/15,6 polegadas FHD, Intel Core i7-1355U de 13ª geração",
+        "details": "【Atualizado para 32 GB de memória para multitarefas de potência total】 Muita RAM de alta largura de banda para executar seus jogos e aplicativos de edição de fotos e vídeos, bem como vários programas e abas do navegador ao mesmo tempo.\r\n【Atualizado para SSD de 1 TB 】Oferece enorme espaço de armazenamento para arquivos enormes, para que você possa armazenar dados digitais importantes e trabalhar com facilidade. Dá a você um enorme espaço para salvar todos os seus arquivos.",
+        "category_id": 4,
+        "image": "https://m.media-amazon.com/images/I/71MJayN4rVL._AC_SX522_.jpg",
+        "inCart": false,
+        "price": 10665,
+        "amount": 1,
+        "status": 1,
+        "cartId": null
+      },
+      {
+        "id": 11,
+        "name": "QCY H3 ANC Fone de Ouvido Bluetooth, Cancelamento de Ruído Ativo Headphone Bluetooth 5.4 Headset com Microfone",
+        "details": "CANCELAMENTO DE RUÍDO ATIVO: Esses fones de ouvido Bluetooth cancelam uma quantidade impressionante de ruído ambiente, de até 43 dB. Nada o distrai de sua música.\r\nCONTROLE SUA MÚSICA E SUAS CHAMADAS: Os botões físicos permitem que você controle o volume, mude de faixa, reproduza/pause e até mesmo ative o assistente de voz. Chamada telefônica recebida? Pegue-o com o toque de um botão.\r\nBLUETOOTH + CABO.",
+        "category_id": 5,
+        "image": "https://m.media-amazon.com/images/I/51MvjUv989L._AC_SX569_.jpg",
+        "inCart": true,
+        "price": 197,
+        "amount": 1,
+        "status": 1,
+        "cartId": null
+      }
+    ]
+}

@@ -1,11 +1,10 @@
 import React from 'react'
-import { View, Text, Button } from 'react-native'
 import { NavigationContainer } from '@react-navigation/native'
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs'
 import { createStackNavigator } from '@react-navigation/stack'
 import Ionicons from 'react-native-vector-icons/Ionicons'
 
-import { HomePage, OrdersPage, DetailsPage, SettingsPage } from './src/views/pages'
+import { HomePage, OrdersPage, ProductsListPage, DetailsPage, SettingsPage } from './src/views/pages'
 
 
 const HomeStack = createStackNavigator() // Configuração da Stack Navigation para a página Home
@@ -17,7 +16,7 @@ export default function App() {
     <NavigationContainer>
       <Tab.Navigator
         headerShown={false}
-        initialRouteName="Settings"
+        initialRouteName="Home"
         screenOptions={({ route }) => ({
           tabBarIcon: ({ focused, color, size }) => {
             let iconName
@@ -61,6 +60,10 @@ function HomeStackScreen() {
         component={HomePage}
          />
       <HomeStack.Screen
+        name='ProductsListPage'
+        component={ProductsListPage}
+        />
+         <HomeStack.Screen
         name='DetailsPage'
         component={DetailsPage}
         />
