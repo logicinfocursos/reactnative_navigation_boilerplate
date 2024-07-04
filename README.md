@@ -161,6 +161,11 @@ function SettingsPage() {
 }
 </pre>
 
+### deixando esse template mais completo
+<pre>
+c:\app> npm i axios
+</pre>
+
 ### baixando o projeto no github
 download do código:nodejs_apiGet_example: https://github.com/logicinfocursos/nodejs_apiGet_example.git
 
